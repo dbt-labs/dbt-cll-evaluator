@@ -5,5 +5,5 @@ __pycache__/
 .ruff_cache/
 .envrc
 int__cloud_subscriptions_daily_unioned.png
-diagram.excalidraw.p
+diagram.excalidraw.png
 response.json
