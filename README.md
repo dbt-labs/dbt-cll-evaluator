@@ -5,7 +5,9 @@ Presented at Coalesce 2024.
 
 ⚠️ This tool leverages some internal API, and there is no guarantee that it will work forever ⚠️
 
-The slides of the presentation are available [here](<slides/CLL Coalesce 24.pdf>) and the recoding will be added shortly.
+## Coalesce 2024 presentation
+
+The slides of the presentation are available [here](<slides/CLL Coalesce 24.pdf>) and the recording will be added shortly.
 
 ## Installing it and running it
 
