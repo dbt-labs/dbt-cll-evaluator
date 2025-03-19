@@ -7,7 +7,7 @@ Presented at Coalesce 2024.
 
 ## Coalesce 2024 presentation
 
-The slides of the presentation are available [here](<slides/CLL Coalesce 24.pdf>) and the recording will be added shortly.
+Here are links to the [slides](<slides/CLL Coalesce 24.pdf>) and to [the recording](https://www.getdbt.com/resources/coalesce-on-demand/coalesce-2024-leveraging-column-level-lineage-to-scale-your-dbt-projects).
 
 ## Installing it and running it
 
